@@ -1,0 +1,2 @@
+*.csv
+#do not include csv files as they are much too large for git.
