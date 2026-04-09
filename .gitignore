@@ -1,2 +1,4 @@
 *.csv
+*.ipynb_checkpoints
+*.virtual_documents
 #do not include csv files as they are much too large for git.
